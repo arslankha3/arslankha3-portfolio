@@ -2,7 +2,7 @@
 
 A website showcasing personal projects and experiences
 
-This site is now live at https://arslankha3.vercel.app
+This site is now live at https://arslankha3-portfolio.vercel.app
 
 
 ## Table of Contents
@@ -38,5 +38,5 @@ Arsalan Ahmed Khatri
 
 This project is deployed to Vercel (used to be deployed to GitHub Pages):
 
-https://arslankha3.vercel.app
+https://arslankha3-portfolio.vercel.app
 
