@@ -114,7 +114,7 @@ const ProjectTab = () => {
                   name={project.name}
                   description={project.description}
                   link={project.link}
-                  github={project.github}
+                  github={project.github ?? ""}
                   stack={project.stack}
                   date={project.date}
                   index={index % 6}

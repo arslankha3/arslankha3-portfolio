@@ -25,7 +25,11 @@ const ProjectSlider = () => {
             key={index}
             className="md:basis-1/2 lg:basis-1/3 flex items-center justify-center"
           >
-            <ProjectCard {...project} index={index} />
+            <ProjectCard
+              {...project}
+              github={project.github ?? ""}
+              index={index}
+            />
           </CarouselItem>
         ))}
       </CarouselContent>
