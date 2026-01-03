@@ -20,19 +20,20 @@ const AboutMeBox = () => {
         <CardContent>
           <div className="text-center flex flex-col gap-y-3 max-w-[700px] pt-5">
             <div>
-              My name is Arsalan Ahmed Khatri. As a Sr. Software Engineer with 14+ year of experience who loves{" "}
-              <span className="font-bold">solving problems</span> and{" "}
-              <span className="font-bold">building things</span>, especially in
-              web development.
+              <span className="font-bold">Senior ERP Developer and Full Stack Engineer</span> with{" "}
+              <span className="font-bold">14+ years of experience</span> in designing and developing scalable
+              enterprise solutions.
             </div>
             <div>
-              I enjoy creating user-friendly applications and working with both{" "}
-              <span className="font-bold">front-end</span> and{" "}
-              <span className="font-bold">back-end</span> technologies. I love
-              learning new things by expanding my experience through various
-              side projects and challneges. With my excellent communication, leadership, and
-              problem-solving skills, I am confident in my ability to drive successful outcomes
-              for any organization to create solutions that exceed expectations.
+              Skilled in <span className="font-bold">.NET, Node.js, NestJS, SQL Server, RESTful APIs</span>, and
+              system integrations with deep expertise in{" "}
+              <span className="font-bold">ERP systems</span> and{" "}
+              <span className="font-bold">database optimization</span>.
+            </div>
+            <div>
+              Proven success in <span className="font-bold">improving system efficiency by 30%</span> through
+              innovative architecture and automation. Strong leader and mentor experienced in{" "}
+              <span className="font-bold">Agile/Scrum</span>, aligning technology with business goals.
             </div>
           </div>
         </CardContent>

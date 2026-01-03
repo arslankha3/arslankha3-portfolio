@@ -74,7 +74,7 @@ const HeroSection = () => {
               className="my-3 text-left text-muted-foreground font-light
               text-sm md:text-[16px] md:leading-[24px]"
             >
-              I love to build things that can help people.
+              14+ years of experience in designing and developing scalable enterprise solutions.
             </motion.p>
           </div>
 

@@ -6,7 +6,7 @@ export interface Project {
   name: string;
   description: string;
   link?: string;
-  github: string;
+  github?: string;
   stack: ReactComponentElement[];
   uml?: string;
   date: string;

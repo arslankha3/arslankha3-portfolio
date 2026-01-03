@@ -12,9 +12,9 @@ import { MobileNavProvider } from "@/app/MobileNavContext";
 const inter = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Arsalan Ahmed Khatri | Portfolio",
+  title: "Arsalan Ahmed Khatri | Senior ERP Developer & Full Stack Engineer",
   description:
-    "A website showcasing personal projects of Arsalan Ahmed Khatri",
+    "Senior ERP Developer and Full Stack Engineer with 14+ years of experience in designing and developing scalable enterprise solutions. Skilled in .NET, Node.js, NestJS, SQL Server, RESTful APIs, and system integrations.",
 };
 
 export default function RootLayout({

@@ -1,4 +1,4 @@
-import { GraduationCap, Laugh, MailIcon, User2 } from "lucide-react";
+import { GraduationCap, Laugh, MailIcon, User2, Phone, MapPin, Linkedin } from "lucide-react";
 
 const infos = [
   {
@@ -7,15 +7,23 @@ const infos = [
   },
   {
     icon: <Laugh size={18} />,
-    description: "People also call me Khatri",
+    description: "Senior ERP Developer & Full Stack Engineer",
   },
   {
     icon: <MailIcon size={18} />,
     description: "arslankha3@gmail.com",
   },
   {
+    icon: <Phone size={18} />,
+    description: "+92 333 3176130",
+  },
+  {
+    icon: <MapPin size={18} />,
+    description: "Karachi, Sindh, Pakistan",
+  },
+  {
     icon: <GraduationCap size={18} />,
-    description: "Master in Computer Engineering",
+    description: "Masters of Software Engineering (MSSE)",
     description2: "@Iqra University",
   },
 ];
